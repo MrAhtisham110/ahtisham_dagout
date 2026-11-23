@@ -1,4 +1,4 @@
-from mahwish_dugout.loader import load_player, load_team, load_teams 
+from ahtisham_dagout.loader import load_player, load_team, load_teams
 
  
  
